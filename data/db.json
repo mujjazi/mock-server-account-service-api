@@ -1,0 +1,25 @@
+{
+  "ad-account":[
+   {
+      "id":1,
+      "customerId":123456,
+      "type":1,
+      "clientId":456789,
+      "token":"lsdkjflewirjrt9438uj53ij43",
+      "oAuthToken":"elrhjf4389u934joijefkjnkjdfvde",
+      "isSandbox":false,
+      "publisherNetwork":0,
+      "marketId":60
+},
+   {
+      "id":2,
+      "customerId":12343336,
+      "type":1,
+      "clientId":4562229,
+      "token":"lsdkjflewirjrt94ewqr23r238uj53ij43",
+      "oAuthToken":"elrhjf4389xasdau934joijefkjnkjdfvde",
+      "isSandbox":false,
+      "publisherNetwork":0,
+      "marketId":61
+   }
+]}
