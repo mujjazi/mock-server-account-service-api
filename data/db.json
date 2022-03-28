@@ -1,25 +1,51 @@
 {
-  "ad-account":[
-   {
-      "id":1,
-      "customerId":123456,
-      "type":1,
-      "clientId":456789,
-      "token":"lsdkjflewirjrt9438uj53ij43",
-      "oAuthToken":"elrhjf4389u934joijefkjnkjdfvde",
-      "isSandbox":false,
-      "publisherNetwork":0,
-      "marketId":60
-},
-   {
-      "id":2,
-      "customerId":12343336,
-      "type":1,
-      "clientId":4562229,
-      "token":"lsdkjflewirjrt94ewqr23r238uj53ij43",
-      "oAuthToken":"elrhjf4389xasdau934joijefkjnkjdfvde",
-      "isSandbox":false,
-      "publisherNetwork":0,
-      "marketId":61
-   }
-]}
+  "ad-account": [
+    {
+      "id": 1,
+      "customerId": 123456,
+      "type": 1,
+      "clientId": 456789,
+      "token": "lsdkjflewirjrt9438uj53ij43",
+      "oAuthToken": "elrhjf4389u934joijefkjnkjdfvde",
+      "isSandbox": false,
+      "publisherNetwork": 0,
+      "marketId": 60
+    },
+    {
+      "id": 2,
+      "customerId": 12343336,
+      "type": 1,
+      "clientId": 4562229,
+      "token": "lsdkjflewirjrt94ewqr23r238uj53ij43",
+      "oAuthToken": "elrhjf4389xasdau934joijefkjnkjdfvde",
+      "isSandbox": false,
+      "publisherNetwork": 0,
+      "marketId": 61
+    },
+    {
+      "id": 413,
+      "customer_id": 0,
+      "created_at": "2013-03-25 13:06:08",
+      "updated_at": "2022-03-25 15:51:07",
+      "updated_by": 505,
+      "status": 1,
+      "market_id": 60,
+      "is_branded": 0,
+      "is_mcc": 0,
+      "name": "Google Test Account - Anirban Dan",
+      "type": 0,
+      "offline_publisher_id": null,
+      "network": 0,
+      "client_id": "5912821774",
+      "token": "ebYS62yrzmE46ZBgaIAa5A",
+      "oauth_token": "1//09Dho-BB9Fj5HCgYIARAAGAkSNwF-L9IrkJBSGvqoBgPejnzUX2y4-8YuR9YMT45Vyqp-rewP8fHDzpv1Pk7PGlneeOodMPMwOBM",
+      "is_sandbox": 0,
+      "external_url_params": null,
+      "comment": "XSEM-4147: Paused for better Hadoop Compatibility",
+      "allow_upload": 0,
+      "is_logger_enabled": 0,
+      "hadoop_sqoop": 0,
+      "keyword_category_update": 0
+    }
+  ]
+}
