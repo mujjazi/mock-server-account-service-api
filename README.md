@@ -25,8 +25,8 @@ You should get the mocked response which is this:
   "customerId" : 12343336,
   "type" : 1,
   "clientId" : 4562229,
-  "token" : "lsdkjflewirjrt94ewqr23r238uj53ij43",
-  "oAuthToken" : "elrhjf4389xasdau934joijefkjnkjdfvde",
+  "token" : "xxxxxxxxxxxxxxxxxxxxx",
+  "oAuthToken" : "xxxxxxxxxxxxxxxxx",
   "isSandbox" : false,
   "publisherNetwork" : 0,
   "marketId" : 61
